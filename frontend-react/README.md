@@ -760,7 +760,7 @@ MIT License - Free to use and modify
 
 ## 📝 Version History
 
-### v3.0.0 (December 2024) - Current
+### v3.0.0 (December 2025) - Current
 - ✅ Complete UI overhaul with shadcn/ui
 - ✅ Dark mode support
 - ✅ Framer Motion animations
@@ -771,7 +771,7 @@ MIT License - Free to use and modify
 - ✅ Smaller bundle size
 - ✅ Better performance
 
-### v2.0.0 (November 2024)
+### v2.0.0 (November 2025)
 - Custom CSS design
 - Basic functionality
 - Local storage support
@@ -806,4 +806,4 @@ Need help? Here's how to get support:
 
 **Made with ❤️ using React 18, Vite 5, shadcn/ui, and Tailwind CSS**
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
